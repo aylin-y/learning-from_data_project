@@ -44,7 +44,7 @@ venv.bak/
 .DS_Store
 .DS_Store?
 ._*
-Thumds.db
+Thumbs.db
 desktop.ini
 
 # --- IDEs ---
