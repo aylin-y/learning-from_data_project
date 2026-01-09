@@ -1,0 +1,10 @@
+lyricsgenius
+pandas
+numpy
+scikit-learn
+matplotlib
+seaborn
+scipy
+nltk
+gensim
+python-dotenv
